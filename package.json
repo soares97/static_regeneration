@@ -1,0 +1,27 @@
+{
+  "name": "static_regeneration",
+  "version": "1.0.0",
+  "description": "Repositorio para geração de página estática",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soares97/static_regeneration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soares97/static_regeneration/issues"
+  },
+  "homepage": "https://github.com/soares97/static_regeneration#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
